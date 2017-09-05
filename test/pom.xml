@@ -51,7 +51,7 @@ Copyright 2015 Google Inc.
       <plugin>
         <groupId>com.google.appengine</groupId>
         <artifactId>appengine-maven-plugin</artifactId>
-        <version>${appengine.sdk.version}</version>
+        <version>1.9.54</version>
       </plugin>
     </plugins>
   </build>
