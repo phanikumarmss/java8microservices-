@@ -43,7 +43,7 @@ Copyright 2015 Google Inc.
       </plugin>
       <!-- Parent POM defines ${appengine.sdk.version} (updates frequently). -->
       <plugin>
-        <groupId>com.google.appengine</groupId>
+        <groupId>com.google.cloud.tools</groupId>
         <artifactId>appengine-maven-plugin</artifactId>
         <version>1.9.54</version>
       </plugin>
