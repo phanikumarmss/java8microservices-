@@ -30,7 +30,7 @@ public class HelloServlet extends HttpServlet {
   @Override
   public void doGet(HttpServletRequest req, HttpServletResponse resp) throws IOException {
     PrintWriter out = resp.getWriter();
-    out.println("Welcome to Development Demo testing");
+    out.println("Welcome to Development Demo");
   }
 }
 // [END example]
